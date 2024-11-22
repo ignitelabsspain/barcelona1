@@ -1,0 +1,9 @@
+planta,valor
+Sótano,1
+Semi-sótano,2
+Entreplanta,3
+Exterior,4
+"Planta -1, -2",0
+Planta 1 al 5,5
+Planta 6 al 10,6
+Planta 10 a más,7
